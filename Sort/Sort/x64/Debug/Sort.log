@@ -1,0 +1,9 @@
+﻿  Sort.cpp
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(180,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(208,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(256,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(275,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(282,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(329,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\source\repos\Projects\Sort\Sort\Sort\Sort.cpp(340,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sort.vcxproj -> C:\Users\Олег\source\repos\Projects\Sort\Sort\x64\Debug\Sort.exe
