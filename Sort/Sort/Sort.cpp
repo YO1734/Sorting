@@ -190,7 +190,8 @@ void HeapSort(std::vector<int>& array)
 }
 
 //Radix Sort
-void CountSortByDigit(std::vector<int>& array, int exp) {
+void CountSortByDigit(std::vector<int>& array, int exp) 
+{
 	std::vector<int> count(10, 0);
 
 	// Count the occurrences of each digit
@@ -216,7 +217,8 @@ void CountSortByDigit(std::vector<int>& array, int exp) {
 	}
 }
 
-void RadixSort(std::vector<int>& array) {
+void RadixSort(std::vector<int>& array) 
+{
 	// Determine the maximum number of digits in the largest number
 	int max_digits = 0;
 	for (int i = 0; i < array.size(); i++) {
@@ -271,7 +273,8 @@ void ShellSort(std::vector<int>& array)
 
 //BucketSort
 
-void BucketSort(std::vector<int>& array) {
+void BucketSort(std::vector<int>& array)
+{
 	int n = array.size();
 
 	// Создаем массив корзин
